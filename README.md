@@ -7,6 +7,7 @@
 [![Archive Size](https://img.shields.io/badge/Archive_Size-520_MB-138808?style=for-the-badge&logo=archivebox&logoColor=white)](https://github.com/mohammadgolamrabbii/Hindi-Fonts-Mega-Archive)
 [![Script](https://img.shields.io/badge/Script-Devanagari_%7C_%E0%A4%A6%E0%A5%87%E0%A4%B5%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A4%B0%E0%A5%80-000080?style=for-the-badge)](https://github.com/mohammadgolamrabbii/Hindi-Fonts-Mega-Archive)
 [![Formats](https://img.shields.io/badge/Formats-TTF_%7C_OTF_%7C_WOFF-critical?style=for-the-badge)](https://github.com/mohammadgolamrabbii/Hindi-Fonts-Mega-Archive)
+[![Archive.org](https://img.shields.io/badge/Archive.org-Permanent_Mirror-000000?style=for-the-badge&logo=internet-archive&logoColor=white)](https://archive.org/details/open-typography-foundation-hindi-devanagari)
 [![Curator](https://img.shields.io/badge/Curator-Golam_Rabbii-blueviolet?style=for-the-badge&logo=github)](https://github.com/mohammadgolamrabbii)
 
 <p align="center">
@@ -21,6 +22,10 @@
 ## ⚡ 1-Click Instant Downloads (1-क्लिक त्वरित डाउनलोड)
 
 Download the full archive or choose specific categories tailored to your workflow:
+
+
+### 🏛️ Permanent Archive.org Mirror:
+[![Archive.org Direct Mirror (255 MB ZIP)](https://img.shields.io/badge/Archive.org_Mirror_(ZIP)-255_MB-000000?style=for-the-badge&logo=internet-archive&logoColor=white)](https://archive.org/details/open-typography-foundation-hindi-devanagari)
 
 ### 📦 Master Archive (All 6,009 Fonts):
 [![Download Full Archive (ZIP 520 MB)](https://img.shields.io/badge/Download_Full_Archive_(ZIP)-520_MB-FF9933?style=for-the-badge&logo=archivebox&logoColor=white)](https://github.com/mohammadgolamrabbii/Hindi-Fonts-Mega-Archive/archive/refs/heads/main.zip)
